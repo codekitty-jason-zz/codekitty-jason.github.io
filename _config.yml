@@ -32,6 +32,10 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
+# Disable "view on GitHub" button
+github:
+  is_project_page: false
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
