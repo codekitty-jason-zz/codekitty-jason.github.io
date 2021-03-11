@@ -21,7 +21,7 @@
 title: Code Kitty
 email: jason@codekitty.org
 description: >- # this means to ignore newlines until "baseurl:"
-    Our mission is to show girls and other underrepresented groups that technology skills are available to anyone with an interest, and to cultivate that interest in as many learners as possible.
+   Code Kitty teaches coding and robotics to learners grade 2 and up.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MNCode-CodeKitty
@@ -35,7 +35,7 @@ plugins:
 # Disable "view on GitHub" button
 github:
   is_project_page: false
-  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
