@@ -9,13 +9,20 @@ Not sure if that's you? _Try this_.
 
 Coding is basically entering instructions that your  computer follows. That's it. 
 
-Ever use a calculator? Then you've already coded (or _programmed)_ a computer. You type in  
-\`\`\`python
+Ever use a calculator? Then you've already coded (or _programmed)_ a computer. You type in
 
-1+1  
-\`\`\`
+    1+1
 
-and press \`\`\`python = \`\`\`
+and press
 
-Python takes what you  typed in. _computes_* it, and gives the answer:  
-\`\`\`python 2\`\`\`
+    =
+
+Python takes what you typed in, _computes_ the answer and shows you
+
+    2
+
+There you go. You programmed a computer.  If you go into python, and at the 
+
+    >>>
+
+Type in 1+1 and press **enter**, it will show you _the same answer_.
