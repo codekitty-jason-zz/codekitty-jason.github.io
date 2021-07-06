@@ -1,8 +1,9 @@
 ---
 title: Code Kitty - Code
 layout: default
----
+published: false
 
+---
 ### Code in Python 2 right here!
 You can write just about any Python 2 code below. Simply click in the box below and start typing.
 New to Python? Try using Python as a Calculator! Try typing `1+1` and then press `Enter`.
