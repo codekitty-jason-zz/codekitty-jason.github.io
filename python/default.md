@@ -1,7 +1,6 @@
 ---
 title: Code Kitty - Code
 layout: default
-published: false
 
 ---
 ### Code in Python 2 right here!
