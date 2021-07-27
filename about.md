@@ -1,6 +1,10 @@
 ---
 title: About
 layout: Default
+intro: ''
+intro_detail: ''
+Data: ''
+data_detail: ''
 
 ---
 ## Our Mission
