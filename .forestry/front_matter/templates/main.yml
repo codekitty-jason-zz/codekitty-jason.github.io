@@ -2,3 +2,5 @@
 label: Main
 hide_body: true
 fields: []
+pages:
+- sponsors.md
