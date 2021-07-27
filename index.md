@@ -3,6 +3,10 @@ title: Code Kitty
 layout: default
 
 ---
+<div class="news-container">
+    <iframe src="https://codekitty.notion.site/News-b8e493f631724c609e60a8629b0198c9" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
 
 ## Our Sponsors
 
