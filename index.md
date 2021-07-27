@@ -1,6 +1,6 @@
 ---
 title: Code Kitty
-layout: default
+layout: Default
 
 ---
 ## Our Sponsors
