@@ -3,6 +3,7 @@ title: Code Kitty
 layout: default
 
 ---
+
 ## Our Sponsors
 
 Thank you _so_ much to all of the donors and sponsors who have helped Code Kitty show over 200 children how awesome it is to be an engineer. We could not have done it without you.
