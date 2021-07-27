@@ -9,5 +9,4 @@ fields:
   name: layout
   label: layout
 pages:
-- about.md
 - volunteer.md
