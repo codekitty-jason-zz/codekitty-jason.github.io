@@ -23,4 +23,5 @@ fields:
     required: false
   label: Data Detail
 pages:
+- _posts/news.md
 - about.md
