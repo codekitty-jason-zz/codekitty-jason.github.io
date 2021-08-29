@@ -3,7 +3,7 @@ title: Code Kitty
 layout: default
 
 ---
-{% include news.md %}
+{% include posts/news.md %}
 
 ## Our Sponsors
 
