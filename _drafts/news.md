@@ -3,6 +3,7 @@ intro: ''
 intro_detail: ''
 Data: ''
 data_detail: ''
+title: News
 
 ---
 ## Code Kitty is 4 today!
