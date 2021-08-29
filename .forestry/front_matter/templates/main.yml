@@ -9,5 +9,5 @@ fields:
     required: true
   label: Title
 pages:
-- _posts/news.md
+- _posts/2021-08-29-news.md
 - sponsors.md
